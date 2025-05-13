@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+}
+body{
+    background-color: black;
+    color: white;
+}
+.Reestar{
+    padding: 20px;
+    text-align: center;
+}
+.menus{
+    display: flex;
+    gap: 10px;
+    
+
+    justify-content: center;
+}
+.Product{
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+
+}
+.box{
+    border: solid black 2px;
+    display: inline-block;
+    width: 250px;
+}
+.box p{
+    color: black;
+    font-size: medium;
+    
+}
+button{
+    background-color: black;
+    color: white;
+}
+.con{
+    text-align: center;
+    padding: 20px;
+}
+.det{
+    justify-content: center;
+    display: flex;
+    padding: 0px;
+
+}
+.det1{
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+    font-style: inherit;
+    
+}
+.det2{
+    display: flex;
+    justify-content: center;
+}
+.send{
+    background-color: yellow;
+    color: black;
+    text-align: center;
+    width: 650px;
+    margin-left: 550px;
+    padding: 1px;
+    margin-top: 10px;
+}
